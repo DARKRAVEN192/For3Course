@@ -12,6 +12,8 @@ namespace For3Course
         {
             // for you!
             Console.WriteLine("for me");
+
+            Console.ReadLine();
         }
     }
 }
