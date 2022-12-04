@@ -1,0 +1,7 @@
+D:\Progtime2022\GitHub\For3Course\For3Course\bin\Debug\For3Course.exe.config
+D:\Progtime2022\GitHub\For3Course\For3Course\bin\Debug\For3Course.exe
+D:\Progtime2022\GitHub\For3Course\For3Course\bin\Debug\For3Course.pdb
+D:\Progtime2022\GitHub\For3Course\For3Course\obj\Debug\For3Course.csprojAssemblyReference.cache
+D:\Progtime2022\GitHub\For3Course\For3Course\obj\Debug\For3Course.csproj.CoreCompileInputs.cache
+D:\Progtime2022\GitHub\For3Course\For3Course\obj\Debug\For3Course.exe
+D:\Progtime2022\GitHub\For3Course\For3Course\obj\Debug\For3Course.pdb
